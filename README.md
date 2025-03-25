@@ -112,10 +112,6 @@ cd NotesApp
 
 ---
 
-## 📸 Screenshots / Video
-(Add screenshots or a demo video link here to show app functionality.)
-
----
 
 ## 📜 Submission Requirements
 ✅ **GitHub Repository:** [Link to GitHub Repository]
@@ -126,7 +122,7 @@ cd NotesApp
 ---
 
 ## 📌 Credits
-Developed by **[Your Name]** for Room Database Implementation Task.
+Developed by **Abdullah Aljohani** for Room Database Implementation Task.
 
 ---
 
